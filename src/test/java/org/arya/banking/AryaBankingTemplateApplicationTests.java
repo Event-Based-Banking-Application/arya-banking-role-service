@@ -1,9 +1,9 @@
-package org.arya.banking;
+package org.arya.banking.role;
 
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AryaBankingTemplateApplicationTests {
+class AryaBankingRoleServiceApplicationTests {
 
     void contextLoads() {
     }

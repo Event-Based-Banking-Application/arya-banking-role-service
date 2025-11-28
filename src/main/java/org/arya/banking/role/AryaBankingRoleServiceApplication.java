@@ -1,13 +1,13 @@
-package org.arya.banking;
+package org.arya.banking.role;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AryaBankingTemplateApplication {
+public class AryaBankingRoleServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(AryaBankingTemplateApplication.class, args);
+        SpringApplication.run(AryaBankingRoleServiceApplication.class, args);
     }
 
 }
